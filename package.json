@@ -1,0 +1,25 @@
+{
+  "name": "clickatell-rest-api",
+  "version": "1.0.0",
+  "description": "This module allows to use clickatell rest-a-tell rest api.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/muhammadfaizan/clickatell-rest-api.git"
+  },
+  "keywords": [
+    "clickatell",
+    "restapi",
+    "text",
+    "message"
+  ],
+  "author": "Muhammad Faizan <muhammad.faizan.cs@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/muhammadfaizan/clickatell-rest-api/issues"
+  },
+  "homepage": "https://github.com/muhammadfaizan/clickatell-rest-api#readme"
+}
