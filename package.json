@@ -21,5 +21,9 @@
   "bugs": {
     "url": "https://github.com/muhammadfaizan/clickatell-rest-api/issues"
   },
-  "homepage": "https://github.com/muhammadfaizan/clickatell-rest-api#readme"
+  "homepage": "https://github.com/muhammadfaizan/clickatell-rest-api#readme",
+  "dependencies": {
+    "request": "^2.78.0",
+    "request-promise-native": "^1.0.3"
+  }
 }
